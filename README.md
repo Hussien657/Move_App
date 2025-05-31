@@ -8,9 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Home Page](public/screen1.png)
 The home page displays a list of popular movies fetched from an external API.
 
-### Favorites Page
-![Favorites Page](public/screen2.png)
-The favorites page shows movies that the user has marked as favorites.
+### Arabic Page
+![ARABIC PAGE](public/screen2.png)
+The home page with arabic displays a list of popular movies fetched from an external API.
 
 ### Details Page
 ![Details Page](public/screen3.png)
