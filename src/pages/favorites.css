@@ -1,0 +1,16 @@
+.favorites-container {
+    background-color: #121212;
+    min-height: 100vh;
+    color: white;
+}
+
+.movie-card {
+    background-color: #1e1e1e;
+    border: 1px solid #ff0000;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.movie-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 15px rgba(255, 0, 0, 0.5);
+}
